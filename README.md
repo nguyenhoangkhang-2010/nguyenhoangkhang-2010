@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/82/38/c2/8238c208945625bf9c4f1c1f7abec3e7.gif" width="100%" alt="Space Header">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXp3bm9ueXp3bm9ueXp3bm9ueXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/aB1E5P0ugguBy/giphy.gif" width="100%" alt="Space Animation">
+
+  <br />
 
   # 🌌 Welcome to Khang's Universe 🚀
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET;Data+Science+%26+Algorithms+Enthusiast;Building+the+Future+with+Code;Always+Exploring+New+Dimensions" alt="Typing SVG" />
   </a>
