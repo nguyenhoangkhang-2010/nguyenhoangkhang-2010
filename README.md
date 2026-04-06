@@ -11,13 +11,13 @@
 <br/>
 
 <div align="center">
-  <a href="LINK_LINKEDIN_CUA_BAN">
+  <a href="www.linkedin.com/in/nguyễn-hoàng-khang-undefined-17541036a">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="LINK_FACEBOOK_CUA_BAN">
+  <a href="https://www.facebook.com/TyyyyKhang2010/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:EMAIL_CUA_BAN">
+  <a href="mailto:nguyenhoangkhang.241105@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
