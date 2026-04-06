@@ -34,31 +34,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍🚀 About My Mission
+### About My Mission
 
 Welcome to my digital spacecraft! I'm a developer passionate about crafting robust backend systems and exploring the depths of algorithms and data science. From structuring complex databases to optimizing algorithms like K-Means and TSP, I love solving logical puzzles. 
 
-- 🔭 **Currently exploring:** Advanced Data Science concepts and optimizing Dynamic Programming solutions.
-- 💻 **Tech focus:** ASP.NET (MVC/Web API), Python, and SQL database management.
-- 🧠 **Thinking about:** How to build seamless, high-performance systems and intuitive user experiences.
-- ⚡ **Fun fact:** I love bringing concepts to life, whether it's an event or a complex application architecture.
+- **Currently exploring:** Advanced Data Science concepts and optimizing Dynamic Programming solutions.
+- **Tech focus:** ASP.NET (MVC/Web API), Python, and SQL database management.
+- **Thinking about:** How to build seamless, high-performance systems and intuitive user experiences.
+- **Fun fact:** I love bringing concepts to life, whether it's an event or a complex application architecture.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Constellations (Stats)
+### GitHub Constellations (Stats)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true" height="195" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0" height="195" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true&hide_border=true" height="195" alt="Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0&hide_border=true" height="195" alt="Languages" />
+</p>
 
 <br/>
 
@@ -68,7 +59,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
   </a>
 </div>
 
-### 🐍 Contribution Galaxy
+### Contribution Galaxy
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
