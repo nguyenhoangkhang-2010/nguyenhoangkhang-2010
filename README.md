@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/aB1E5P0ugguBy/giphy.gif" width="100%" alt="Space Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXp3bm9ueXp3bm9ueXp3bm9ueXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/aB1E5P0ugguBy/giphy.gif" width="100%" alt="Space Animation">
 
   <br />
 
@@ -47,9 +47,18 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 ### 📊 GitHub Constellations (Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0" height="195" alt="Languages" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true" height="195" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0" height="195" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -60,8 +69,6 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 </div>
 
 ### 🐍 Contribution Galaxy
-
-*A visual representation of my coding journey, eaten by the GitHub snake!*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
