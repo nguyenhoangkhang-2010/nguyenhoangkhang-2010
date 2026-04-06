@@ -45,8 +45,9 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 ### 📊 GitHub Constellations (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="195" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=8" height="195" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats" />
+  
+  <img src="https://github-readme-stats-revamp.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact" height="195" alt="Languages" />
 </div>
 
 <br/>
