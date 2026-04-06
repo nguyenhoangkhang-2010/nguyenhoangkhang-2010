@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVvcHhyaWNsNXA3d2ZhM211cXBhd2RqZWVvdnM4cDJsbXkzcDh1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iicDrNGWxHmDrIni6j/200.webp" width="100%">
-
-  <br />
-
   # 🌌 Welcome to Khang's Universe 🚀
+  <div align = "center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mMjFhdzczNjNueDg1YjVnNWJoNzRtcG91N2thYmo2M3IwdmRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/200.webp" width="100%" alt="Space GIF">
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET;Data+Science+%26+Algorithms+Enthusiast;Building+the+Future+with+Code;Always+Exploring+New+Dimensions" alt="Typing SVG" />
@@ -47,9 +44,14 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 ### GitHub Constellations (Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true&hide_border=true" height="195" alt="Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0&hide_border=true" height="195" alt="Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=nguyenhoangkhang-2010&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=nguyenhoangkhang-2010&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=nguyenhoangkhang-2010&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
 
 <br/>
 
@@ -57,10 +59,15 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma,dart,flutter&perline=15" alt="Tech Stack" />
   </a>
-</div>
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/sql-server)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Data Science](https://img.shields.io/badge/Data%20Science-FC5A1D?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+<div/>
+  
 ### Contribution Galaxy
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
