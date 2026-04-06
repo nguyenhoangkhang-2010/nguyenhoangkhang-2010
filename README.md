@@ -1,4 +1,4 @@
-<img width="1856" height="990" alt="image" src="https://github.com/user-attachments/assets/1ea23b51-cec9-448e-86e0-25c2a71937f9" /><div align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/82/38/c2/8238c208945625bf9c4f1c1f7abec3e7.gif" width="100%" alt="Space Header">
 
   # 🌌 Welcome to Khang's Universe 🚀
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Space+Travelers+Visited&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nguyenhoangkhang-2010&label=Space+Travelers+Visited&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 *A visual representation of my coding journey, eaten by the GitHub snake!*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
