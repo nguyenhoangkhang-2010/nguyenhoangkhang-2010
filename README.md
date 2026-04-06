@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="www.linkedin.com/in/nguyễn-hoàng-khang-undefined-17541036a">
+  <a href="https://www.linkedin.com/in/nguyễn-hoàng-khang-undefined-17541036a">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/TyyyyKhang2010/">
