@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/82/38/c2/8238c208945625bf9c4f1c1f7abec3e7.gif" width="100%" alt="Space Header">
 
   # 🌌 Welcome to Khang's Universe 🚀
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET;Data+Science+%26+Algorithms+Enthusiast;Building+the+Future+with+Code;Always+Exploring+New+Dimensions" alt="Typing SVG" />
   </a>
@@ -46,8 +45,8 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 ### 📊 GitHub Constellations (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats Dashboard" />
-  <img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Languages Bar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="195" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=8" height="195" alt="Languages" />
 </div>
 
 <br/>
