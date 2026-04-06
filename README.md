@@ -65,7 +65,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/sql-server)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Data Science](https://img.shields.io/badge/Data%20Science-FC5A1D?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Data Engineer](https://img.shields.io/badge/Data%20Engineer-FC5A1D?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 <div/>
 
