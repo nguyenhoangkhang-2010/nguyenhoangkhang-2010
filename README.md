@@ -53,7 +53,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 *A visual representation of my coding journey, eaten by the GitHub snake!*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
