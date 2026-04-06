@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Space Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVvcHhyaWNsNXA3d2ZhM211cXBhd2RqZWVvdnM4cDJsbXkzcDh1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iicDrNGWxHmDrIni6j/200.webp" width="100%">
 
   <br />
 
