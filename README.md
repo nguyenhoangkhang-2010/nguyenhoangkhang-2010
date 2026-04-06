@@ -41,19 +41,12 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 ---
 
-### 📊 GitHub Constellations (Stats)
+### 📊 GitHub Constellations
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkhang-2010&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhoangkhang-2010&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkhang-2010&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhoangkhang-2010&theme=tokyonight" width="48%" />
 </div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
----
 
 ### 🐍 Contribution Galaxy
 
