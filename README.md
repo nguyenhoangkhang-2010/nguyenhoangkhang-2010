@@ -66,6 +66,12 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 [![Data Science](https://img.shields.io/badge/Data%20Science-FC5A1D?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 <div/>
+
+### Data & Tooling
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=nguyenhoangkhang-2010&theme=merko&hide_border=false" alt="Activity Graph" />
+</div>
   
 ### Contribution Galaxy
 <div align="center">
