@@ -47,17 +47,15 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 ### 📊 GitHub Constellations (Stats)
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats" />
-  
-  <img src="https://github-readme-stats-revamp.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact" height="195" alt="Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true&layout=compact&langs_count=20&hide_threshold=0" height="195" alt="Languages" />
+</p>
 
 <br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma&perline=15" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma,dart,flutter&perline=15" alt="Tech Stack" />
   </a>
 </div>
 
