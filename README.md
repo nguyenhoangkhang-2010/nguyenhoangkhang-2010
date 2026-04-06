@@ -46,21 +46,17 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 ### 📊 GitHub Constellations (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&bg_color=00000000&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&bg_color=00000000&show_icons=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Stats Dashboard" />
+  <img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api/top-langs/?username=nguyenhoangkhang-2010&theme=radical&show_icons=true" height="195" alt="Languages Bar" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma&perline=15" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma&perline=15" alt="Tech Stack" />
   </a>
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🐍 Contribution Galaxy
 
