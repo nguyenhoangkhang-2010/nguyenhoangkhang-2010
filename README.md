@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1856" height="990" alt="image" src="https://github.com/user-attachments/assets/1ea23b51-cec9-448e-86e0-25c2a71937f9" /><div align="center">
   <img src="https://i.pinimg.com/originals/82/38/c2/8238c208945625bf9c4f1c1f7abec3e7.gif" width="100%" alt="Space Header">
 
   # 🌌 Welcome to Khang's Universe 🚀
@@ -60,7 +60,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 *A visual representation of my coding journey, eaten by the GitHub snake!*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
