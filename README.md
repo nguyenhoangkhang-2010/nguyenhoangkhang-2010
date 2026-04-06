@@ -37,7 +37,7 @@
 
 Welcome to my digital spacecraft! I'm a developer passionate about crafting robust backend systems and exploring the depths of algorithms and data science. From structuring complex databases to optimizing algorithms like K-Means and TSP, I love solving logical puzzles. 
 
-- **Currently exploring:** Advanced Data Science concepts and optimizing Dynamic Programming solutions.
+- **Currently exploring:** Advanced Data Engineer concepts and optimizing Dynamic Programming solutions.
 - **Tech focus:** ASP.NET (MVC/Web API), Python, and SQL database management.
 - **Thinking about:** How to build seamless, high-performance systems and intuitive user experiences.
 - **Fun fact:** I love bringing concepts to life, whether it's an event or a complex application architecture.
