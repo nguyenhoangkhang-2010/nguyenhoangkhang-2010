@@ -47,7 +47,7 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,bootstrap,git,github,vscode,visualstudio,figma&perline=7" />
   </a>
 </div>
 
