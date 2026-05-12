@@ -1,4 +1,4 @@
-  # 🌌 Welcome to Khang's Universe 🚀
+  # Welcome to Khang's Universe
   <div align = "center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mMjFhdzczNjNueDg1YjVnNWJoNzRtcG91N2thYmo2M3IwdmRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/200.webp" width="100%" alt="Space GIF">
   
@@ -82,5 +82,5 @@ Welcome to my digital spacecraft! I'm a developer passionate about crafting robu
 
 <div align="center">
   <br/>
-  <p><i>"The universe is under no obligation to make sense to you." – Neil deGrasse Tyson</i></p>
+  <p><i>Don’t wait for opportunities, create them.</i></p>
 </div>
