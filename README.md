@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mMjFhdzczNjNueDg1YjVnNWJoNzRtcG91N2thYmo2M3IwdmRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/200.webp" width="100%" alt="Space GIF">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Python+Developer;Deep+Learning+%26+Data+Analyst;Building+the+Future+with+Code;Always+Exploring+New+Dimensions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+/+AI+Engineer+%7C+Python+Developer;Deep+Learning+%26+Data+Analyst;Building+the+Future+with+Code;Always+Exploring+New+Dimensions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 ### Contact With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nguyễn-hoàng-khang-undefined-17541036a">
+  <a href="https://www.linkedin.com/in/hoangkhang2411/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/TyyyyKhang2010/">
