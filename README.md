@@ -90,6 +90,6 @@ AI & LLM
 
 <div align="center">
 
-Building intelligent systems that transform data into decisions.
+Do what you can, with what you have, where you are.
 
 </div>
