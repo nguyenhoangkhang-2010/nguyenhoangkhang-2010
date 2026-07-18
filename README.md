@@ -15,7 +15,7 @@ Building scalable AI systems from data pipelines to production deployment.
 ## About
 
 - Ho Chi Minh City University of Industry and Trade (HUIT)
-- Computer Science · Year 3
+- Information Technology · Year 3
 - Ho Chi Minh City, Vietnam
 - Data & AI Engineer · Backend Engineer
 - Focused on AI infrastructure, data pipelines, and retrieval systems
