@@ -28,7 +28,7 @@ Building scalable AI systems from data pipelines to production deployment.
 <tr>
 <td width="33%" valign="top">
 Languages
-<img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,cpp&theme=dark" width="170" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,cpp,flutter,dart&theme=dark" width="170" />
 
 </td>
 <td width="33%" valign="top">
@@ -38,7 +38,7 @@ Backend / Frontend
 </td>
 <td width="34%" valign="top">
 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" width="115" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase&theme=dark" width="115" />
 
 </td>
 </tr>
@@ -62,9 +62,20 @@ AI & LLM
 </table>
 <br/>
 <table width="100%">
-<tr><td width="180" valign="top"><sub>CORE</sub></td><td>Python · C# · ASP.NET Core · SQL Server · Git</td></tr>
-<tr><td valign="top"><sub>PRODUCTION</sub></td><td>FastAPI · Spring Boot · PostgreSQL · MySQL · Azure · Docker · GitHub Actions · Power BI</td></tr>
-<tr><td valign="top"><sub>WORKING KNOWLEDGE</sub></td><td>Java · C++ · JavaScript · HTML · CSS · SQLite · Firebase · Pandas · NumPy · OpenAI API · Whisper · Azure AI Foundry · DAX · Postman</td></tr>
+<tr>
+<td width="180" valign="top"><sub>CORE</sub></td>
+<td>Python · SQL Server · PostgreSQL · Pandas · NumPy · Git</td>
+</tr>
+
+<tr>
+<td valign="top"><sub>PRODUCTION</sub></td>
+<td>FastAPI · Docker · Azure · GitHub Actions · Power BI · OpenAI API · Whisper</td>
+</tr>
+
+<tr>
+<td valign="top"><sub>WORKING KNOWLEDGE</sub></td>
+<td>C# · ASP.NET Core · Spring Boot · Java · C++ · JavaScript · HTML · CSS · MySQL · MongoDB · SQLite · Firebase · Azure AI Foundry · DAX · Postman</td>
+</tr>
 </table>
 <br/>
 
