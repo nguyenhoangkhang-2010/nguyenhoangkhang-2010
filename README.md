@@ -85,11 +85,14 @@ AI & LLM
 
 <div align="center">
 
-<img src="https://github-profile-maker.vercel.app/api/stats?username=nguyenhoangkhang-2010&hide_border=true&hide_title=true&bg_color=22272E&text_color=ADBAC7&icon_color=539BF5&title_color=FFFFFF" width="45%" />
+<p align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=nguyenhoangkhang-2010&hide_border=true&hide_title=true&bg_color=0d1117&text_color=8FB8DE&icon_color=539BF5&title_color=FFFFFF&border_radius=12" width="48%" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=nguyenhoangkhang-2010&layout=compact&hide_border=true&langs_count=10&bg_color=0d1117&text_color=8FB8DE&title_color=FFFFFF&border_radius=12" width="48%" />
+</p>
 
-<img src="https://github-profile-maker.vercel.app/api/top-langs?username=nguyenhoangkhang-2010&layout=compact&hide_border=true&langs_count=10&bg_color=22272E&text_color=ADBAC7&title_color=FFFFFF" width="45%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhoangkhang-2010&theme=minimal&hide_border=true&bg_color=0d1117&color=7DD3FC&line=7DD3FC&point=c9d1d9" width="92%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhoangkhang-2010&theme=minimal&hide_border=true&bg_color=0d1117&color=539BF5&line=539BF5&point=8FB8DE&area_color=539BF5&border_radius=12" width="96%" />
+</p>
 
 <img src="https://raw.githubusercontent.com/nguyenhoangkhang-2010/nguyenhoangkhang-2010/output/github-contribution-grid-snake.svg" width="92%" />
 
